@@ -1,0 +1,20 @@
+{
+	"name": "chronopicker",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"description": "Vanilla JavaScript date and datetime picker with inline and input popover modes.",
+	"scripts": {
+		"serve": "python3 -m http.server 8000",
+		"smoke": "node tests/node-smoke/smoke.mjs"
+	},
+	"keywords": [
+		"date-picker",
+		"datetime-picker",
+		"calendar",
+		"vanilla-js",
+		"es-modules"
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}
